@@ -1,7 +1,8 @@
 # CHECKPOINT3
 
-## Partie 1 : Gestion des utilisateurs
+## Exercice 1 : Manipulations pratiques sur VM Windows 
 
+## Partie 1 : Gestion des utilisateurs
 
 # Q.1.1.1 Création de l'utilisateur Lionel Lemarchand avec les memes attributs que Kelly Rhammeur
 
