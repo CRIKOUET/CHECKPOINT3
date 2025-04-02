@@ -34,4 +34,11 @@
 ![VirtualBoxVM_XRDn0LbB3K.png](https://i.imgur.com/itlsHsO.png)
 
 
+## Partie 3 : Analyse du stockage
+
+# Q.2.3.1 liste des systèmes de fichiers actuellement montés .
+
+![](https://i.imgur.com/GdoZ9vU.png)
+
+
 
