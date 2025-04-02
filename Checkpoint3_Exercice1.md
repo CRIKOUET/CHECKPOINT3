@@ -35,6 +35,8 @@
 ![VirtualBoxVM_LX9Ta86RQJ.png](https://i.imgur.com/mhuGxua.png)
 
 ## Partie 3 : Lecteurs réseaux
+
+
 # Q.1.3.1 Création d'une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients
 ![eEnBm5LRwU.png](https://i.imgur.com/V7PA2MR.png)
 ![VirtualBoxVM_1eTL7P5eN8.png](https://i.imgur.com/pOzrMiU.png)
