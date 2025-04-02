@@ -19,7 +19,7 @@
 ![VirtualBoxVM_LEr7r0iGYK.png](https://i.imgur.com/y3wMz94.png)
 ![VirtualBoxVM_HEyjjEJOcZ.png](https://i.imgur.com/Q7zuBfk.png)
 ![VirtualBoxVM_yebUDTIlGF.png](https://i.imgur.com/uGElzD6.png)
-![VirtualBoxVM_wZVpOGGhb0.png](https://i.imgur.com/5DQs2UL.png)
+
 ![VirtualBoxVM_lDs0mDYNN2.png](https://i.imgur.com/XEdpGcC.png)
 
 # Q.1.1.4 Crétion du  dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
