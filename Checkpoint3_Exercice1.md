@@ -22,6 +22,11 @@
 ![VirtualBoxVM_wZVpOGGhb0.png](https://i.imgur.com/5DQs2UL.png)
 ![VirtualBoxVM_lDs0mDYNN2.png](https://i.imgur.com/XEdpGcC.png)
 
+# Q.1.1.4 Crétion du  dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
+
+![VirtualBoxVM_wZVpOGGhb0.png](https://i.imgur.com/5DQs2UL.png)
+
+
 ## Partie 2 : Restriction utilisateurs
 
 # Q.1.2.1 Restriction l'utilisateur Gabriel Ghul pour se connecter que du lundi au vendredi, de 7h à 17h
