@@ -49,5 +49,6 @@
 ![VirtualBoxVM_9GOscGdn8Y.png](https://i.imgur.com/t17RwdY.png)
 ![VirtualBoxVM_h1pWezPul7.png](https://i.imgur.com/udah3X6.png)
 
+## Exercice 2 : Manipulations pratiques sur VM Linux
 
 
