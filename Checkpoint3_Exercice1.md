@@ -38,7 +38,7 @@
 
 
 # Q.1.3.1 Création d'une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients
-![eEnBm5LRwU.png](https://i.imgur.com/V7PA2MR.png)
+
 ![VirtualBoxVM_1eTL7P5eN8.png](https://i.imgur.com/pOzrMiU.png)
 ![VirtualBoxVM_9GOscGdn8Y.png](https://i.imgur.com/t17RwdY.png)
 ![VirtualBoxVM_h1pWezPul7.png](https://i.imgur.com/udah3X6.png)
