@@ -20,7 +20,6 @@
 ![VirtualBoxVM_HEyjjEJOcZ.png](https://i.imgur.com/Q7zuBfk.png)
 ![VirtualBoxVM_yebUDTIlGF.png](https://i.imgur.com/uGElzD6.png)
 
-![VirtualBoxVM_lDs0mDYNN2.png](https://i.imgur.com/XEdpGcC.png)
 
 # Q.1.1.4 Crétion du  dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
 
@@ -30,6 +29,7 @@
 ## Partie 2 : Restriction utilisateurs
 
 # Q.1.2.1 Restriction l'utilisateur Gabriel Ghul pour se connecter que du lundi au vendredi, de 7h à 17h
+![VirtualBoxVM_lDs0mDYNN2.png](https://i.imgur.com/XEdpGcC.png)
 ![VirtualBoxVM_C9J6sUO392.png](https://i.imgur.com/QkJHQ9n.png)
 # Q.1.2.2  blocage de la connexion au seul ordinateur CLIENT01.
 ![VirtualBoxVM_5TnymDx857.png](https://i.imgur.com/mncYnuI.png)
