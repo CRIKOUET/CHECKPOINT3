@@ -17,4 +17,21 @@
 
 ![VirtualBoxVM_TFVXtjYADj.png](https://i.imgur.com/zILHPlO.png)
 
+# Q.2.2.3 Mise en place d'une authentification par clé valide et désactivation del'authentification par mot de passe
+
+![VirtualBoxVM_LVZRsN7r4b.png](https://i.imgur.com/xizsX33.png)
+
+![VirtualBoxVM_kgaVAeG7vr.png](https://i.imgur.com/E5pHwnS.png)
+
+![VirtualBoxVM_fd24qLPQcH.png](https://i.imgur.com/LNdSB2R.png)
+
+![VirtualBoxVM_rW0kvpZTRH.png](https://i.imgur.com/t6IG0Ju.png)
+
+![VirtualBoxVM_FrGuRiKVKf.png](https://i.imgur.com/wa9o5b6.png)
+
+![VirtualBoxVM_AT31iuh5ZN.png](https://i.imgur.com/asgMI5j.png)
+
+![VirtualBoxVM_XRDn0LbB3K.png](https://i.imgur.com/itlsHsO.png)
+
+
 
