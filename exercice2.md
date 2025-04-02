@@ -5,3 +5,10 @@
 # Q.2.1.1 Sur le serveur, création du compte pour mon usage personnel.
 
 ![VirtualBoxVM_6niA0mEk4E.png](https://i.imgur.com/8Ovtb6j.png)
+
+
+# Partie 2 : Configuration de SSH
+
+![VirtualBoxVM_Y8Qy5ODGyv.png](https://i.imgur.com/pZLYMPL.png)
+
+
