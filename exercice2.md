@@ -38,7 +38,11 @@
 
 # Q.2.3.1 liste des systèmes de fichiers actuellement montés .
 
-![](https://i.imgur.com/GdoZ9vU.png)
+En croisant les commandes "df -h"  et "lsblk -f" les systemes de fichiers utilisés sont : ext4 , ext2 , tmpfs, devtmpfs.
+
+[![](https://i.imgur.com/YdVYMshm.jpg)](https://i.imgur.com/YdVYMsh.png)
+
+
 
 
 
